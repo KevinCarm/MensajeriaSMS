@@ -1,0 +1,2 @@
+rootProject.name = "Mensajeria SMS"
+include ':app'
